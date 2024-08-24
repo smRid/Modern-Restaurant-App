@@ -1,6 +1,6 @@
 # Gericht Mordern Restaurant React Project
 <b>Installation:</b>
-1. Clone the repository: [git clone https://github.com/smRid/Mordern-Restaurant-App.git
+1. Clone the repository: git clone https://github.com/smRid/Mordern-Restaurant-App.git
 2. Navigate to the project directory: cd Gericht-Restaurant-React-Project
 3. Install dependencies: npm install
 4. Start the development server: npm run dev
