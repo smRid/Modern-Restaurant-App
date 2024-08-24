@@ -11,7 +11,7 @@
 2. HTML/CSS/JS/Tailwind/FramerMotion: For structuring the user interface and styling the application.
 
 <b>Privew Project:</b>
-https://gericht-restaurant-2024.vercel.app/
+https://mordern-restaurant-app.vercel.app/
 
 
 <b>Screenshot:</b>
