@@ -1,10 +1,16 @@
 # Gericht Modern Restaurant React Project
 <b>Installation:</b>
-1. Clone the repository: git clone https://github.com/smRid/Mordern-Restaurant-App.git
-2. Navigate to the project directory: cd Gericht-Restaurant-React-Project
-3. Install dependencies: npm install
-4. Start the development server: npm run dev
-5. Open your browser and visit  to view Gericht-Restaurant-React-Project
+1. **Clone the repository:**
+    git clone https://github.com/smRid/Modern-Restaurant-App.git
+
+2. **Install dependencies:**
+    npm i
+   
+4. **Start the development server:**
+    npm run dev
+   
+6. **Open your browser and navigate to:**
+    http://localhost:5173/
 
 <b>Technologies Used:</b>
 1. React.js: For building the front-end components and managing state efficiently.
